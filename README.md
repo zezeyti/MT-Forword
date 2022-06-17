@@ -16,7 +16,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
-<a href="https://youtu.be/xufAzeTLRIs"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
+<a href="https://youtu.be/8kS8C9Tyvnc"><img src="https://img.shields.io/badge/How%20To-Deploy-red.svg?logo=Youtube"></a>
 
 Deploy in your vps
 ```sh
